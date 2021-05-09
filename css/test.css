@@ -1,0 +1,23 @@
+body{
+	background-color: lime;
+}
+h1{
+font-size: 40px; 
+color: #DE2179;
+}
+h2{
+font-size: 50px; 
+color: #EC1414;
+}
+.big{
+font-size: 100px;
+}
+.uppercase{
+text-transform: uppercase;
+}
+.big.uppercase{
+color: black;
+}
+span{
+color: red;
+}
